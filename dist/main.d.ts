@@ -1,1 +1,1 @@
-declare const a = 19;
+declare const twoSum: (nums: number[], target: number) => number[];
