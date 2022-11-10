@@ -1,1 +1,1 @@
-declare const twoSum: (nums: number[], target: number) => number[];
+declare const search: (nums: number[], target: number) => number;
